@@ -1,4 +1,4 @@
-# weather-app
+# aajtak-weathers
 
 This is a simple weather app which displays the weather information of the desired region.
 
